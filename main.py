@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from time import sleep
+
 
 min_width = 80  # Minimum rectangle width
 min_height = 80  # Minimum rectangle height
